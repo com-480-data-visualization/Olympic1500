@@ -48,6 +48,7 @@ We want to analyze and visualize Olympic 1500 metre data through time in a compl
 3. Each row in this dataset is an individual athlete’s individual performance in an Olympic event.
 4. We use this source to complete missing information with event-specific split times from the World Athletics Website, for example: 2020 and 2024 longitudinal data.
 
+You can find the notebook with the preliminary insights [here](data_exploration.ipynb).
 
 ### Related work
 
