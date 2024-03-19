@@ -58,9 +58,10 @@ We want to analyze and visualize Olympic 1500 metre data through time in a compl
 > - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
 
 2 sport articles inspired us to develop this project:
-- “Changes in running biomechanics during the 2017 IAAF world championships men's 1500 m final”. This paper mentions kinematic and kinetic characteristics of middle-distance athletes.
-- “Women’s 1500m Time Analysis time analysis – 2017 IAAF World Championships". This paper includes graphs of position and mean speed per 100m in 2017 Women’s 1500m World Championships.
+- “Changes in running biomechanics during the 2017 IAAF world championships men's 1500 m final”. This paper mentions kinematic and kinetic characteristics of middle-distance athletes. The paper claims, in its introduction, that the predominant pacing profile of male 1500 m championship runners is to gradually increase speed from 300 m until the finish. We will verify this by analyzing split times of Olympic 1500m finalists.
+- “Women’s 1500m Time Analysis time analysis – 2017 IAAF World Championships". This paper includes graphs of position and mean speed per 100m in 2017 Women’s 1500m World Championships. The paper elegantly displays plots of position and mean speed per 100m split over the 1500m World Championships. We will reuse their illustrative techniques to effectively visualize split times and split positions.
 
+Our approach is original because we apply a successful pre-existing visualization to a broader dataset to enlargen the scope of race time splits over time.
 
 ## Milestone 2 (26th April, 5pm)
 
