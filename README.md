@@ -36,10 +36,18 @@ Datasets:
 > - What am I trying to show with my visualization?
 > - Think of an overview for the project, your motivation, and the target audience.
 
+We want to analyze and visualize Olympic 1500 metre data through time in a complete and innovative way. Our target audience is sport fans curious to learn more about statistics, tactics and trends of Olympic 1500 metre races. It is in this frame of mind that we unpack and visualize various factors, showing similar trends in race evolution that we will try to categorize.
+ 
 ### Exploratory Data Analysis
 
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
+
+1. This dataset provides us with the name, sex, country, year and winning Olympic time.
+2. This dataset provides us with the medal count by country in the Men's 1,500m at the Summer Olympics from 1896 to 2020.
+3. Each row in this dataset is an individual athlete’s individual performance in an Olympic event.
+4. We use this source to complete missing information with event-specific split times from the World Athletics Website, for example: 2020 and 2024 longitudinal data.
+
 
 ### Related work
 
@@ -48,6 +56,11 @@ Datasets:
 > - Why is your approach original?
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
 > - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+
+2 sport articles inspired us to develop this project:
+- “Changes in running biomechanics during the 2017 IAAF world championships men's 1500 m final”. This paper mentions kinematic and kinetic characteristics of middle-distance athletes.
+- “Women’s 1500m Time Analysis time analysis – 2017 IAAF World Championships". This paper includes graphs of position and mean speed per 100m in 2017 Women’s 1500m World Championships.
+
 
 ## Milestone 2 (26th April, 5pm)
 
