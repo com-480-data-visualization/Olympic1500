@@ -3,8 +3,8 @@
 | Student's name | SCIPER |
 | -------------- | ------ |
 | Paul McIntyre | 302264 |
-| | |
-| | |
+| Elisa Bianchi | |
+| Elise Wilhelm | |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
@@ -48,6 +48,7 @@ We want to analyze and visualize Olympic 1500 metre data through time in a compl
 3. Each row in this dataset is an individual athlete’s individual performance in an Olympic event.
 4. We use this source to complete missing information with event-specific split times from the World Athletics Website, for example: 2020 and 2024 longitudinal data.
 
+You can find the notebook with the preliminary insights [here](data_exploration.ipynb).
 
 ### Related work
 
