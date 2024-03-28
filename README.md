@@ -27,7 +27,7 @@ Datasets:
   1. [Summer Olympics: 1500m winning times 1896-2020](https://www.statista.com/statistics/1098589/olympics-1-500m-gold-medal-times-since-1896/)
   2. [Summer Olympics: Men's 1500m medal table 1896-2020](https://www.statista.com/statistics/1117683/olympics-mens-1-500m-medal-table-since-1896/)
   3. [Olympic history: longitudinal data](https://figshare.com/articles/dataset/Olympic_history_longitudinal_data_scraped_from_www_sports-reference_com/6121274)
-  4. [World Athletics Website (Olympic Split Times)](https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/results/men/1500-metres/final/result)
+  4. [World Athletics Website (Olympic Split Times)](https://worldathletics.org/results/olympic-games/2021/the-xxxii-olympic-games-athletics-7132391/men/1500-metres/final/result)
 
 
 ### Problematic
