@@ -3,8 +3,8 @@
 | Student's name | SCIPER |
 | -------------- | ------ |
 | Paul McIntyre | 302264 |
-| Elisa Bianchi | |
-| Elise Wilhelm | |
+| Elisa Bianchi | 300928 |
+| Laetitia Wilhelm | |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
