@@ -18,3 +18,4 @@ We came up with the following 3 visualization ideas:
 ### Extra Ideas:
   - **Video Animation of Time-Series Bar Chart**: We'd like to generate a video animation of our time-series bar chart over time, providing an entertaining and informative way to display our findings to viewers.
   - **Quiz on Optimal Racing Strategy**: We could create a quiz on which racing strategy is optimal given a specific context (e.g., how fast we are relative to our competition), engaging users in interactive learning experiences.
+  - **Analyzing Race Strategies via Split Ranks**: in the same way as split times, we could analyze the ranks of each athlete in a race at every split, as wind resistance is a primordial factor to consider. This shows us more practical tactics and less theoretical data at the risk of oversimplifying an athlete's race performances. 
