@@ -24,6 +24,7 @@ We came up with the following 3 visualization ideas:
 Here are our proposed visualization tools as well as the corresponding lectures:
 
 **Analyzing Race Strategies via Split Times (Paul)**:
+You can find the sketch for this visualization tool [here](https://github.com/com-480-data-visualization/Olympic1500/blob/master/data/paces.jpg).
   - **Reading CSV Files with D3.js (Based on "D3.js" Lecture)**: I'll start by leveraging my knowledge from the "D3.js" lecture to read the split time data from a CSV file. Using D3.js, I'll load the data into my web page to prepare it for visualization.
   - **Creating Line Plot Visualization (Based on "Data" Lecture)**: Using the insights I gained in the "Data" lecture, I'll make a line plot visualization showcasing the mean speed per split of 1500m Olympic finalists per 100 meters. Each line on the plot will represent a different athlete's performance for a given Olympic 1500m Final.
   - **Categorizing Race Strategies (Based on "Data" Lecture)**: Once these first steps are completed, I'll analyze the data to categorize the racing strategies employed by the athletes. Drawing upon concepts from the "Data" lecture, I'll identify patterns such as "sit and kick," "negative split," "front running," and "even pace."
