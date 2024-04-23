@@ -6,8 +6,6 @@
 | Elisa Bianchi | 300928 |
 | Laetitia Wilhelm | 298015 |
 
-[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
-
 ## Milestone 1 (29th March, 5pm)
 
 **10% of the final grade**
@@ -63,19 +61,3 @@ You can find the notebook with the preliminary insights [here](data_exploration.
 - “Women’s 1500m Time Analysis time analysis – 2017 IAAF World Championships". This paper includes graphs of position and mean speed per 100m in 2017 Women’s 1500m World Championships. The paper elegantly displays plots of position and mean speed per 100m split over the 1500m World Championships. We will reuse their illustrative techniques to effectively visualize split times and split positions.
 
 Our approach is original because we apply a successful pre-existing visualization to a broader dataset to enlargen the scope of race time splits over time.
-
-## Milestone 2 (26th April, 5pm)
-
-**10% of the final grade**
-
-
-## Milestone 3 (31st May, 5pm)
-
-**80% of the final grade**
-
-
-## Late policy
-
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
-
