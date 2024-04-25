@@ -7,6 +7,7 @@
 | Laetitia Wilhelm | 298015 |
 
 ## Milestone 2 (26th April, 5pm)
+Here is the [website](https://laetitia-wilhelm.github.io/index.html) on which we will display the following visualization ideas.
 
 **10% of the final grade**
 ### Visualization ideas:
