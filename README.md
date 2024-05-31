@@ -39,6 +39,7 @@ You can directly access to it with this [link](https://laetitia-wilhelm.github.i
 
 Our [website](https://laetitia-wilhelm.github.io/index.html) is structured the following way:
 
+```sh
 ├── README.md 
 ├── index.html <-- introduction page
 ├── home.html <-- news page
@@ -59,6 +60,7 @@ Our [website](https://laetitia-wilhelm.github.io/index.html) is structured the f
     ├── histogram.js <-- Medal History
     ├── Map_wo_hist.js <-- Medal Map
     └──  tableTransition.js <-- Home news
+```
 
 ## Late policy
 
