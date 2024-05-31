@@ -27,6 +27,36 @@ Here is the [link to Milestone 2](milestones/Milestone%202.md)
 Here is the [link to Milestone 3](milestones/Milestone%203.md) where you can find our screencast and the final report.
 
 
+**Website**
+
+The website is hosted by [Github](https://github.com/laetitia-wilhelm/laetitia-wilhelm.github.io) Pages.
+
+You can directly access to it with this [link](https://laetitia-wilhelm.github.io/index.html)
+
+**Structure**
+
+Our [website](https://laetitia-wilhelm.github.io/index.html) is structured the following way:
+
+├── README.md 
+├── index.html <-- introduction page
+├── home.html <-- news page
+├── data.html
+├── country_times.html
+├── description.html
+├── race_strategies.html
+├── world_medals.html
+├── team.html
+├── data/
+    ├── elisa/ <-- country times data
+    └──  laeti/ <-- map & news data
+├── images/<-- all header images
+├── javascript/
+    ├── countdown.js <-- countdown structure
+    ├── elisa_script.js <-- country times
+    ├── fadOut.js <-- main page transition
+    ├── histogram.js <-- Medal History
+    ├── Map_wo_hist.js <-- Medal Map
+    └──  tableTransition.js <-- Home news
 
 ## Late policy
 
