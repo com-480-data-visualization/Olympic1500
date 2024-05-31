@@ -24,7 +24,9 @@ Here is the [link to Milestone 2](milestones/Milestone%202.md)
 
 **80% of the final grade**
 
-Here is the [link to Milestone 3](milestones/Milestone%203.md)
+Here is the [link to the final report.](milestones/Final_Report.pdf)
+Here is the [link to the screencast demo video.](milestones/Screencast.mp4)
+
 
 
 ## Late policy
