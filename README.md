@@ -7,9 +7,9 @@
 | Laetitia Wilhelm | 298015 |
 
 
-## Welcome to our website
+## Welcome to our [website](https://laetitia-wilhelm.github.io/index.html)
 
-Welcome to our website, where we explore the thrilling world of 1500m Olympic races through dynamic visualizations. Here, you'll find a range of interactive tools designed to gain more knowledge about race strategies, global medal distributions, and performance trends over time.
+Welcome to our website, where we explore the fascinating world of 1500m Olympic races through dynamic visualizations. Here, you'll find a range of interactive tools designed to gain more knowledge about race strategies, global medal distributions, and performance trends over time.
 
 
 **Analyzing Race Strategies via Split Times**
