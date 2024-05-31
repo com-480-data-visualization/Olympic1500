@@ -33,7 +33,7 @@ Here is the [link to the screencast demo video.](milestones/Screencast.mp4)
 
 The website is hosted by [Github](https://github.com/laetitia-wilhelm/laetitia-wilhelm.github.io) Pages.
 
-You can directly access to it with this [link](https://laetitia-wilhelm.github.io/index.html)
+You can directly access it with this [link](https://laetitia-wilhelm.github.io/index.html)
 
 **Structure**
 
@@ -60,6 +60,8 @@ Our [website](https://laetitia-wilhelm.github.io/index.html) is structured the f
     ├── histogram.js <-- Medal History
     ├── Map_wo_hist.js <-- Medal Map
     └──  tableTransition.js <-- Home news
+├── style.css  <-- main style
+└── style/<-- contain css files
 ```
 
 ## Late policy
